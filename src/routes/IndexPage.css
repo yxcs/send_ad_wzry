@@ -1,0 +1,44 @@
+
+.normal {
+  font-family: Georgia, sans-serif;
+  margin-top: 3em;
+  text-align: center;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: normal;
+  letter-spacing: -1px;
+}
+
+.welcome {
+  height: 328px;
+  background: url(../assets/yay.jpg) no-repeat center 0;
+  background-size: 388px 328px;
+}
+
+.list {
+  font-size: 1.2em;
+  margin-top: 1.8em;
+  list-style: none;
+  line-height: 1.5em;
+}
+
+.list code {
+  background: #f7f7f7;
+}
+
+.banner{
+  width: 100%;
+  height: 80px;
+  background: url("../assets/banner.jpg") center no-repeat;
+  background-color: #252A47;
+}
+.banner p{
+  line-height: 80px;
+  padding-left: 20px;
+  background: rgba(51,51,51,0.5);
+  font-size: 22px;
+  color: rgb(204, 204, 204);
+  margin-bottom: 20px;
+}
